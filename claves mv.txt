@@ -1,0 +1,8 @@
+ip publica 144.22.57.225
+clave mysql vm LJ)bgExk!0wo
+
+Llaves de Acceso VM
+1) chmod 400 ssh-key-2021-11-04.key
+2) ssh -i ssh-key-ssh-key-2021-11-04.key opc@144.22.57.225
+
+ sudo scp -i ssh-key-2021-11-04.key costume.zip opc@144.22.57.225:/home/opc
